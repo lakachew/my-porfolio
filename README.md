@@ -2,7 +2,7 @@
 
 This repository contains a modern, responsive personal portfolio website built with HTML, CSS, and JavaScript. The site features sections for Home, About, Portfolio, and Contact, along with a handy "Back to Top" button that appears as you scroll down.
 
-here is the website link: [[https://github.com/lakachew/my-porfolio](https://github.com/lakachew/my-porfolio.git)]
+here is the website link: [(https://lakachew.github.io/my-porfolio/)]
 
 ## Features
 
